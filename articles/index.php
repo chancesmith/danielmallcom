@@ -27,6 +27,7 @@
             echo '<h1><a href="' . $ARTICLES_DIRECTORY . $articles[$i]['slug'] .'/">' . $articles[$i]['title'] . '</a></h1>'. "\n\t\t";  
             echo '<p>' . $articles[$i]['dek'] . '</p>' . "\n\t";  
             echo '</article>' . "\n\n";
+            
         }
 
     ?>
