@@ -7,6 +7,7 @@
 		"tags"	:	[
 			"design",
 			"html",
+			"css",
 			"atomic",
 			"patterns",
 			"cms",
@@ -102,7 +103,10 @@
         "dek"	:	"Like magnets and archaelogists.",
         "date"	:	"2015-05-05 10:35:00",
 		"tags"	:	[
-			"business"
+			"business",
+			"pricing",
+			"freelance",
+			"agency"
 		]
 	},
 	{
@@ -112,7 +116,10 @@
         "date"	:	"2015-04-02 22:00:00",
 		"tags"	:	[		
 			"business",
-			"pricing"	
+			"businessology",
+			"pricing",
+			"freelance",
+			"agency"
 		]
 	},
 	{
@@ -126,7 +133,9 @@
 			"front-end",
 			"html",
 			"css",
-			"js"		
+			"javascript",
+			"tips",
+			"template"	
 		]
 	},
 	{
@@ -134,7 +143,9 @@
 		"slug"	:	"brooklyn-beta-2014",
         "dek"	:	"Celebrating my favorite industry event ever.",
         "date"	:	"2014-10-16 12:20:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"conferences",
+			"books"		
 		]
 	},
 	{
@@ -142,7 +153,12 @@
 		"slug"	:	"creative-cloud-libraries",
         "dek"	:	"A new Adobe feature for designing systems.",
         "date"	:	"2014-10-06 09:15:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"adobe",
+			"software",
+			"design",
+			"responsive",
+			"patterns"		
 		]
 	},
 	{
@@ -150,7 +166,9 @@
 		"slug"	:	"sketchlive",
         "dek"	:	"A live 2-day tour through learning Sketch.",
         "date"	:	"2014-09-25 08:35:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"software",
+			"design"	
 		]
 	},
 	{
@@ -158,7 +176,11 @@
 		"slug"	:	"businessology-roadshow",
         "dek"	:	"Learn about the business of design in person.",
         "date"	:	"2014-08-08 09:21:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"businessology",
+			"business",
+			"pricing",
+			"workshop"		
 		]
 	},
 	{
@@ -166,7 +188,10 @@
 		"slug"	:	"get-comfortable",
         "dek"	:	"Some advice about public speaking.",
         "date"	:	"2014-06-19 06:16:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"conferences",
+			"speaking",
+			"tips"		
 		]
 	},
 	{
@@ -174,7 +199,10 @@
 		"slug"	:	"easy-hangouts",
         "dek"	:	"Use Google Calendar.",
         "date"	:	"2014-05-01 05:15:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"technology",
+			"google",
+			"tips"		
 		]
 
 	},
@@ -183,7 +211,11 @@
 		"slug"	:	"radio-free-europe-open-redesign",
         "dek"	:	"An open redesign.",
         "date"	:	"2014-04-07 10:00:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"projects",
+			"performance",
+			"working in public",
+			"superfriendly"
 		]
 	},
 	{
@@ -191,7 +223,11 @@
 		"slug"	:	"visual-inventory",
         "dek"	:	"A design deliverable for the post-<abbr title=\"Photoshop Document\">PSD<\/abbr> era of responsive design.",
         "date"	:	"2014-03-21 00:06:00",
-		"tags"	:	[			
+		"tags"	:	[		
+			"design",
+			"deliverables",
+			"template",
+			"keynote"	
 		]
 	},
 	{
@@ -199,7 +235,13 @@
 		"slug"	:	"on-creative-direction",
         "dek"	:	"A primer on creative direction as compared to art direction and design&hellip; and what they all mean in a digital context.",
         "date"	:	"2014-02-19 12:57:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"leadership",
+			"creative direction",
+			"art direction",
+			"strategy",
+			"design",
+			"business"
 		]
 	},
 	{
@@ -207,7 +249,9 @@
 		"slug"	:	"net-awards-2014",
         "dek"	:	"How I&rsquo;m voting.",
         "date"	:	"2014-01-30 07:15:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"awards",
+			"jury"		
 		]
 	},
 	{
@@ -215,7 +259,14 @@
 		"slug"	:	"how-to-get-the-work-you-want",
         "dek"	:	"Advice for anyone.",
         "date"	:	"2014-01-01 23:00:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"portfolio",
+			"career",
+			"process",
+			"unsolicited redesign",
+			"community",
+			"freelance",
+			"agency"		
 		]
 	},
 	{
@@ -223,7 +274,15 @@
 		"slug"	:	"techcrunch-responsive-redesign",
         "dek"	:	"The story of the new responsive TechCrunch.",
         "date"	:	"2013-11-18 12:15:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"projects",
+			"techcrunch",
+			"responsive",
+			"design",
+			"process",
+			"element collage",
+			"deliverables",
+			"superfriendly"
 		]
 	},
 	{
@@ -231,7 +290,17 @@
 		"slug"	:	"responsive-mobile-entertainment-weekly",
         "dek"	:	"New work on a mobile responsive site for Entertainment Weekly.",
         "date"	:	"2013-10-14 11:00:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"projects",
+			"entertainment weekly",
+			"responsive",
+			"design",
+			"process",
+			"element collage",
+			"deliverables",
+			"mobile",
+			"style tiles",
+			"superfriendly"		
 		]
 	},
 	{
@@ -239,7 +308,15 @@
 		"slug"	:	"now-with-responsive",
         "dek"	:	"Two years later, this site is finally responsive.",
         "date"	:	"2013-10-05 15:06:56",
-		"tags"	:	[			
+		"tags"	:	[	
+			"performance",
+			"responsive",
+			"typography",
+			"svg",
+			"html",
+			"css",
+			"webpagetest",
+			"danielmall.com"
 		]
 	},
 	{
@@ -247,7 +324,9 @@
 		"slug"	:	"progressive-enhancement",
         "dek"	:	"Still alive and kickin&rsquo;.",
         "date"	:	"2013-08-30 15:38:00",
-		"tags"	:	[			
+		"tags"	:	[		
+			"progressive enhancement",
+			"javascript"
 		]
 	},
 	{
@@ -255,7 +334,10 @@
 		"slug"	:	"how-to-build-an-app",
         "dek"	:	"Creating an app in public. Maybe.",
         "date"	:	"2013-08-22 10:39:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"working in public",
+			"superfriendly",
+			"arbitrary"
 		]
 	},
 	{
@@ -263,7 +345,12 @@
 		"slug"	:	"prequalifying-clients",
         "dek"	:	"Questions, answers, and hidden answers.",
         "date"	:	"2013-08-12 07:07:26",
-		"tags"	:	[			
+		"tags"	:	[	
+			"business",
+			"pricing",
+			"businessology",
+			"agency",
+			"freelance"
 		]
 	},
 	{
@@ -271,7 +358,15 @@
 		"slug"	:	"svg-workflow-for-designers",
         "dek"	:	"Create quick vector assets with really small file sizes.",
         "date"	:	"2013-06-19 20:18:51",
-		"tags"	:	[			
+		"tags"	:	[	
+			"process",
+			"workflow",
+			"svg",
+			"design",
+			"photoshop",
+			"illustrator",
+			"adobe",
+			"performance"
 		]
 	},
 	{
@@ -279,7 +374,9 @@
 		"slug"	:	"ideas-of-march-2013",
         "dek"	:	"The lack of blogging about the lack of blogging.",
         "date"	:	"2013-03-31 11:05:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"blogging",
+			"writing"		
 		]
 	},
 	{
@@ -287,7 +384,10 @@
 		"slug"	:	"value-pricing",
         "dek"	:	"Prepping for the next episode of The Businessology Show.",
         "date"	:	"2013-02-25 07:21:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"pricing",
+			"business",
+			"businessology"			
 		]
 
 	},
@@ -296,7 +396,10 @@
 		"slug"	:	"leaving-four24",
         "dek"	:	"After just over 10 years, I&rsquo;ve decided to leave my band",
         "date"	:	"2013-02-17 20:41:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"music",
+			"personal",
+			"four24"	
 		]
 
 	},
@@ -305,7 +408,13 @@
 		"slug"	:	"superfriendly-annual-report-2012",
         "dek"	:	"A look back at one year in business.",
         "date"	:	"2013-02-01 12:30:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"agency",
+			"data",
+			"working in public",
+			"annual report",
+			"business",
+			"superfriendly"
 		]
 
 	},
@@ -314,7 +423,10 @@
 		"slug"	:	"the-post-psd-era",
         "dek"	:	"A problem of expectations.",
         "date"	:	"2013-01-23 12:56:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"photoshop",
+			"design",
+			"process"
 		]
 
 	},
@@ -323,7 +435,15 @@
 		"slug"	:	"rif-design-flexibility",
         "dek"	:	"More about the design process in the public story of a new site for Reading Is Fundamental.",
         "date"	:	"2012-12-28 10:18:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"projects",
+			"rif",
+			"working in public",
+			"design",
+			"deliverables",
+			"process",
+			"workflow",
+			"superfriendly"		
 		]
 
 	},
@@ -332,7 +452,16 @@
 		"slug"	:	"rif-element-collages",
         "dek"	:	"An abstract way to document design for Reading Is Fundamental.",
         "date"	:	"2012-11-13 08:18:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"projects",
+			"rif",
+			"working in public",
+			"design",
+			"deliverables",
+			"process",
+			"workflow",
+			"element collage",
+			"superfriendly"	
 		]
 
 	},
@@ -341,7 +470,16 @@
 		"slug"	:	"rif-kickoff",
         "dek"	:	"The first chapter in the public story of a new site for Reading Is Fundamental.",
         "date"	:	"2012-10-09 10:32:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"projects",
+			"rif",
+			"working in public",
+			"design",
+			"deliverables",
+			"process",
+			"workflow",
+			"meeting",
+			"superfriendly"	
 		]
 
 	},
@@ -350,7 +488,8 @@
 		"slug"	:	"circlesconf2012",
         "dek"	:	"Recap of a great event I had the pleasure of speaking at in Dallas, <abbr title=\"Texas\">TX<\/abbr>.",
         "date"	:	"2012-10-01 17:02:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"conference"			
 		]
 
 	},
@@ -359,7 +498,10 @@
 		"slug"	:	"responsive-line-breaks",
         "dek"	:	"A small trick I use to improve readability for responsive designs.",
         "date"	:	"2012-08-9 14:11:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"responsive",
+			"html",
+			"css"		
 		]
 
 
@@ -369,7 +511,9 @@
 		"slug"	:	"object-value-pricing",
         "dek"	:	"A barter-style pricing system for web design &amp; dev projects.",
         "date"	:	"2012-05-6 15:20:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"business",
+			"pricing"		
 		]
 
 	},
@@ -378,7 +522,8 @@
 		"slug"	:	"big-small",
         "dek"	:	"A recent dilemma about responsibility.",
         "date"	:	"2012-04-22 10:26:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"responsibility"			
 		]
 
 	},
@@ -387,7 +532,9 @@
 		"slug"	:	"hillman-curtis",
         "dek"	:	"The world has lost one more great man.",
         "date"	:	"2012-04-20 15:10:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"personal",
+			"rip"	
 		]
 
 	},
@@ -396,7 +543,10 @@
 		"slug"	:	"authenticity",
         "dek"	:	"Some speaking advice from <a href=\"http://adactio.com/\">Jeremy Keith<\/a>.",
         "date"	:	"2012-04-17 11:32:46",
-		"tags"	:	[			
+		"tags"	:	[	
+			"quote",
+			"conference",
+			"speaking"		
 		]
 
 	},
@@ -405,7 +555,9 @@
 		"slug"	:	"grok-reads",
         "dek"	:	"A list of some great books mentioned in <a href=\"http://grok.cc/\">Grok<\/a> sessions.",
         "date"	:	"2012-03-19 11:45:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"books",
+			"conference"
 		]
 
 
@@ -415,7 +567,10 @@
 		"slug"	:	"introducing-superfriendly",
         "dek"	:	"Today&rsquo;s my birthday. This year, I got myself a new house, a new (old) city, and my very own design studio.",
         "date"	:	"2012-02-01 14:00:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"superfriendly",
+			"personal",
+			"agency"		
 		]
 
 
@@ -425,7 +580,10 @@
 		"slug"	:	"farewell-big-spaceship",
         "dek"	:	"Today is my last day at Big Spaceship.",
         "date"	:	"2012-01-27 10:30:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"agency",
+			"personal",
+			"big spaceship"		
 		]
 
 
@@ -435,7 +593,8 @@
 		"slug"	:	"sketchbooks",
         "dek"	:	"Celebrating rituals that encourage new beginnings.",
         "date"	:	"2012-01-02 12:06:30",
-		"tags"	:	[			
+		"tags"	:	[	
+			"process"		
 		]
 
 	},
@@ -444,7 +603,8 @@
 		"slug"	:	"brooklyn-beta-2011",
         "dek"	:	"Hands down the best industry event I&rsquo;ve ever attended.",
         "date"	:	"2011-10-15 22:18:26",
-		"tags"	:	[			
+		"tags"	:	[	
+			"conference"		
 		]
 	},
 	{
@@ -452,7 +612,8 @@
 		"slug"	:	"you-the-conference-organizer",
         "dek"	:	"Plan your dream conference.",
         "date"	:	"2011-09-30 06:31:07",
-		"tags"	:	[			
+		"tags"	:	[		
+			"conference"	
 		]
 	},
 	{
@@ -460,7 +621,9 @@
 		"slug"	:	"august2011-typefaces",
         "dek"	:	"Be adventurous and experiment with new faces, but don&rsquo;t forget about the classics.",
         "date"	:	"2011-08-27 11:51:33",
-		"tags"	:	[			
+		"tags"	:	[	
+			"typography",
+			"design"		
 		]
 	},
 	{
@@ -468,7 +631,10 @@
 		"slug"	:	"photoshop-clusters",
         "dek"	:	"An idea for configuring Photoshop.",
         "date"	:	"2011-07-13 07:37:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"photoshop",
+			"adobe",
+			"unsolicited redesign"		
 		]
 	},
 	{
@@ -476,7 +642,9 @@
 		"slug"	:	"why-i-love-the-netflix-redesign",
         "dek"	:	"Netflix should be applauded for their bold redesign.",
         "date"	:	"2011-06-09 06:57:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"redesign",
+			"netflix"
 		]
 	},
 	{
@@ -484,7 +652,8 @@
 		"slug"	:	"now-i-have-rss",
         "dek"	:	"Happy?",
         "date"	:	"2011-06-02 01:14:15",
-		"tags"	:	[			
+		"tags"	:	[	
+			"rss"		
 		]
 	},
 	{
@@ -493,6 +662,9 @@
         "dek"	:	"Wow. After five long years, it feels great to have a new site.",
         "date"	:	"2011-05-30 03:40:00",
 		"tags"	:	[			
+			"danielmall.com",
+			"personal",
+			"cms"
 		]
     }
 ]
