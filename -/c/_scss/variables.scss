@@ -1,31 +1,32 @@
 // ========  typefaces =============
 
-$sansFontStack: 		Verdana, Helvetica, Arial, sans-serif;
-$serifFontStack: 	Georgia, 'Times New Roman', serif;
+$sansFontStack		: 			Verdana, Helvetica, Arial, sans-serif;
+$serifFontStack		: 			Georgia, 'Times New Roman', serif;
 
 
 // ========  colors =============
 
-$boulder:				#757575;
-$blazeOrange:			#ff6407;
-$cloudy:				#aea89e;
-$dark: 					#3e3730;
-$sandstone: 			#796b5e;
-$silverRust:			#cac2b8;
+$boulder			:			#757575;
+$blazeOrange		:			#ff6407;
+$cloudy				:			#aea89e;
+$dark				: 			#3e3730;
+$ecruWhite			:			#f6f4e8;
+$sandstone			: 			#796b5e;
+$silverRust			:			#cac2b8;
 
 
 // ========  double-assignments =============
 
 // colors
-$highlightColor:		$blazeOrange;
-$mainColor:				$sandstone;
-$metaColor:				$cloudy;
-$subtleColor:			$silverRust;
-$textColor:				$boulder;
+$highlightColor		:			$blazeOrange;
+$mainColor			:			$sandstone;
+$metaColor			:			$cloudy;
+$subtleColor		:			$silverRust;
+$textColor			:			$boulder;
 
 // typography
-$mainFontStack: $sansFontStack;
-$headlineFontStack: $serifFontStack;
+$mainFontStack		: 			$sansFontStack;
+$headlineFontStack	: 			$serifFontStack;
 
 
 // ========  mixins =============

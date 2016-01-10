@@ -51,7 +51,7 @@
 
     </section><!-- #pd-book -->
 
-    <section id="testimonials">
+    <section id="testimonials" class="ecru-bg pad95">
 
     	<blockquote>
     		<p>Few designers can capture a brand&rsquo;s essence and deliver a design that takes that brand to a new level. Dan did that at the pitch meeting.</p>
@@ -78,6 +78,8 @@
     <section id="articles">
 
     	<h1>Latest Articles</h1>
+
+        <?php parseArticles($_SERVER["DOCUMENT_ROOT"].'/articles/articles.json', 5, 'abridged'); ?>
 
     	<p><a href="/articles/">See all articles</a></p>
 
