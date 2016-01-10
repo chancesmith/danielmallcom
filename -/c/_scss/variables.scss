@@ -1,7 +1,7 @@
 // ========  typefaces =============
 
-$mainFontStack: 		Verdana, Helvetica, Arial, sans-serif;
-$headlineFontStack: 	Georgia, 'Times New Roman', serif;
+$sansFontStack: 		Verdana, Helvetica, Arial, sans-serif;
+$serifFontStack: 	Georgia, 'Times New Roman', serif;
 
 
 // ========  colors =============
@@ -16,11 +16,16 @@ $silverRust:			#cac2b8;
 
 // ========  double-assignments =============
 
+// colors
 $highlightColor:		$blazeOrange;
 $mainColor:				$sandstone;
 $metaColor:				$cloudy;
 $subtleColor:			$silverRust;
 $textColor:				$boulder;
+
+// typography
+$mainFontStack: $sansFontStack;
+$headlineFontStack: $serifFontStack;
 
 
 // ========  mixins =============

@@ -32,11 +32,11 @@
 
     <?php require($_SERVER["DOCUMENT_ROOT"]."/-/_inc/nav.php"); echo "\n"; ?>
 
-    <header class="page-header">
+    <header class="page-header pad95">
 
         <h1>Articles</h1>
 
-        <nav class="page-nav pad95">
+        <nav class="page-nav">
             <ul>
                 <li><a href="#on-this-site">On this site</a></li>
                 <li><a href="#elsewhere">Elsewhere</a></li>

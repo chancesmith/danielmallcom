@@ -23,17 +23,14 @@ http://superfriend.ly/
 }
 
 .page-header {
-	/*background: $mainColor;
-	margin: 0 0 1.5em;
-	padding-top: 1em;
-	padding-bottom: 0.5em;
-
-	h1 {
-		color: #fff;
-	}*/
+	background: $sandstone;
+	margin-bottom: 4em;
+	padding-top: 3.5em;
+	padding-bottom: 2em;
 	position: relative;
+	text-align: center;
 
-	&:before {
+	/*&:before {
 		background: $sandstone;
 		content: "";
 		display: block;
@@ -42,10 +39,11 @@ http://superfriend.ly/
 		position: absolute;
 		top: 15px;
 		width: 50px;
-	}
+	}*/
 
 	h1 {
-		font-size: 50px;
+		color: #fff;
+		/*font-size: 50px;
 		font-size: 5rem;
 		margin: 0 2.5% 0;
 		padding: 0.9em 0 0.2em;
@@ -59,7 +57,7 @@ http://superfriend.ly/
 			position: absolute;
 			top: 15px;
 			width: 70px;
-		}
+		}*/
 	}
 }
 
@@ -96,12 +94,15 @@ http://superfriend.ly/
 // .hentry
 
 .hentry {
+
+	text-align: center;
+
 	&:after {
 		background: $subtleColor;
 		content: "";
 		display: block;
 		height: 4px;
-		margin: 0 0 3em;
+		margin: 0 auto 4.5em;
 		width: 45px;
 	}
 }
@@ -114,6 +115,7 @@ http://superfriend.ly/
 .entry-title {
 	font-size: 30px;
 	font-size: 3rem;
+	letter-spacing: -1px;
 	margin-bottom: 0.25em;
 
 	a {
