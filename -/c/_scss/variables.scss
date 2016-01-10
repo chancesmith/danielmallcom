@@ -1,16 +1,34 @@
-// typefaces
+// ========  typefaces =============
+
 $mainFontStack: 		Verdana, Helvetica, Arial, sans-serif;
 $headlineFontStack: 	Georgia, 'Times New Roman', serif;
 
-// colors
+
+// ========  colors =============
+
 $boulder:				#757575;
+$blazeOrange:			#ff6407;
 $cloudy:				#aea89e;
 $dark: 					#3e3730;
 $sandstone: 			#796b5e;
 $silverRust:			#cac2b8;
 
-// double-entry
+
+// ========  double-assignments =============
+
+$highlightColor:		$blazeOrange;
 $mainColor:				$sandstone;
 $metaColor:				$cloudy;
 $subtleColor:			$silverRust;
 $textColor:				$boulder;
+
+
+// ========  mixins =============
+
+@mixin transition($transition-property, $transition-time, $method) {
+    -webkit-transition: $transition-property $transition-time $method;
+    -moz-transition: $transition-property $transition-time $method;
+    -ms-transition: $transition-property $transition-time $method;
+    -o-transition: $transition-property $transition-time $method;
+    transition: $transition-property $transition-time $method;
+}

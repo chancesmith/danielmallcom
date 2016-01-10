@@ -155,7 +155,7 @@ video {
 
 a { 
 	text-decoration: none; 
-	/*.transition(all, 0.25s, linear);*/ 
+	@include transition(all, 0.25s, linear);
 }
 
 a:hover, 

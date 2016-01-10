@@ -32,11 +32,20 @@
 
     <?php require($_SERVER["DOCUMENT_ROOT"]."/-/_inc/nav.php"); echo "\n"; ?>
 
-    <header class="page-header pad95">
+    <header class="page-header">
+
         <h1>Articles</h1>
+
+        <nav class="page-nav pad95">
+            <ul>
+                <li><a href="#on-this-site">On this site</a></li>
+                <li><a href="#elsewhere">Elsewhere</a></li>
+            </ul>
+        </nav><!-- .page-nav -->
+
     </header><!-- .page-header -->
 
-    <div class="wrap95">
+    <section id="on-this-site" class="wrap95">
 
         <?php 
 
@@ -81,7 +90,10 @@
 
         ?>
 
-    </div><!-- .wrap95 -->
+    </section><!-- #on-this-site.wrap95 -->
+
+    <section id="elsewhere" class="wrap95">
+    </section><!-- #elsewhere.wrap95 -->
 
     
 <?php require($_SERVER["DOCUMENT_ROOT"]."/-/_inc/footer.php"); echo "\n"; ?>    
