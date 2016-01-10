@@ -9,7 +9,8 @@
 			"html",
 			"atomic",
 			"patterns",
-			"cms"
+			"cms",
+			"responsive"
 		]
 	},
 	{
@@ -57,7 +58,11 @@
 		"slug"	:	"time-for-work",
         "dek"	:	"What&rsquo;s the minimum amount of time we should be working per week?",
         "date"	:	"2015-09-20 22:00:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"workflow",
+			"learning",
+			"career",
+			"process"			
 		]
 	},
 	{
@@ -65,7 +70,10 @@
 		"slug"	:	"switch-creative-block",
         "dek"	:	"Dealing with creative block.",
         "date"	:	"2015-08-16 20:40:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"workflow",
+			"process",
+			"learning"		
 		]
 	},
 	{
@@ -73,7 +81,9 @@
 		"slug"	:	"day-one-with-android",
         "dek"	:	"After nine years of using iOS1 &ndash; iOS7 across iPhones 1 &ndash; 6, I&rsquo;m switching to Android to gain a new perspective.",
         "date"	:	"2015-07-06 08:10:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"mobile",
+			"os"			
 		]
 	},
 	{
@@ -81,7 +91,9 @@
 		"slug"	:	"finished-businessology",
         "dek"	:	"The time has come for me to step away from Businessology.",
         "date"	:	"2015-07-03 14:00:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"business",
+			"personal"
 		]
 	},
 	{
@@ -89,7 +101,8 @@
 		"slug"	:	"finding-clients",
         "dek"	:	"Like magnets and archaelogists.",
         "date"	:	"2015-05-05 10:35:00",
-		"tags"	:	[			
+		"tags"	:	[
+			"business"
 		]
 	},
 	{
@@ -97,7 +110,9 @@
 		"slug"	:	"pricing",
         "dek"	:	"How to start charging for your work.",
         "date"	:	"2015-04-02 22:00:00",
-		"tags"	:	[			
+		"tags"	:	[		
+			"business",
+			"pricing"	
 		]
 	},
 	{
@@ -105,7 +120,13 @@
 		"slug"	:	"how-to-make-a-performance-budget",
         "dek"	:	"A tangible way to approximate how your pages should perform.",
         "date"	:	"2014-12-04 06:00:00",
-		"tags"	:	[			
+		"tags"	:	[	
+			"performance",
+			"speed",
+			"front-end",
+			"html",
+			"css",
+			"js"		
 		]
 	},
 	{

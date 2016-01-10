@@ -24,11 +24,30 @@
         
         for($i = 0; $i < $articlesLength; $i++){
 
+            // convert tags to array
+            $tags = $articles[$i]['tags'];
+
+            //echo print_r($tags);
+
+            // Open entry
             echo "\t" . '<article>'. "\n\t\t";
+
+            // print headline link to slug
             echo '<h1><a href="' . $ARTICLES_DIRECTORY . $articles[$i]['slug'] .'/">' . $articles[$i]['title'] . '</a></h1>'. "\n\t\t";  
+
+            // print dek
             echo '<p>' . $articles[$i]['dek'] . '</p>' . "\n\t\t";  
-            echo '<time datetime="' . $articles[$i]['date'] . '">' . date('M d, Y' , strtotime($articles[$i]['date'])) . '</time>';
-            echo '</article>' . "\n\n";
+
+            // print timestamp
+            echo '<time datetime="' . $articles[$i]['date'] . '">' . date('M d, Y' , strtotime($articles[$i]['date'])) . '</time>' . "\n\t\t<ul>\n\t\t\t";
+
+            // print tags
+            for($j=0; $j < sizeof($tags); $j++){
+                echo "<li>" . $tags[$j] . "</li>";
+            }
+
+            // close entry
+            echo "\n\t\t" . '</ul>' . "\n\t" . '</article>' . "\n\n";
             
         }
 
