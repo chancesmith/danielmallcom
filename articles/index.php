@@ -23,9 +23,11 @@
         $ARTICLES_DIRECTORY = '/articles/';
         
         for($i = 0; $i < $articlesLength; $i++){
+
             echo "\t" . '<article>'. "\n\t\t";
             echo '<h1><a href="' . $ARTICLES_DIRECTORY . $articles[$i]['slug'] .'/">' . $articles[$i]['title'] . '</a></h1>'. "\n\t\t";  
-            echo '<p>' . $articles[$i]['dek'] . '</p>' . "\n\t";  
+            echo '<p>' . $articles[$i]['dek'] . '</p>' . "\n\t\t";  
+            echo '<time datetime="' . $articles[$i]['date'] . '">' . date('M d, Y' , strtotime($articles[$i]['date'])) . '</time>';
             echo '</article>' . "\n\n";
             
         }
