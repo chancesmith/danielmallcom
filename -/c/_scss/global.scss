@@ -20,6 +20,10 @@
 
 .bulleted { list-style: disc; }
 
-.uppercase { text-transform: uppercase; }
-
 .rwd-break { display: block; }
+
+.caps { text-transform: uppercase; letter-spacing: 0.1em; }
+
+.wrap95 { width: 95%; margin: 0 auto; }
+
+.pad95 { padding: 0 2.5%; }

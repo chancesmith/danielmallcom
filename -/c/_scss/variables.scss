@@ -1,1 +1,16 @@
-$mainFontStack: Helvetica, Arial, sans-serif;
+// typefaces
+$mainFontStack: 		Verdana, Helvetica, Arial, sans-serif;
+$headlineFontStack: 	Georgia, 'Times New Roman', serif;
+
+// colors
+$boulder:				#757575;
+$cloudy:				#aea89e;
+$dark: 					#3e3730;
+$sandstone: 			#796b5e;
+$silverRust:			#cac2b8;
+
+// double-entry
+$mainColor:				$sandstone;
+$metaColor:				$cloudy;
+$subtleColor:			$silverRust;
+$textColor:				$boulder;

@@ -18,7 +18,77 @@ http://superfriend.ly/
 /*-------------------------------------------    
 	Modules
 -------------------------------------------*/
+.site-nav { 
+	display: none;
+}
 
+.page-header {
+	background: $mainColor;
+	margin: 0 0 1.5em;
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+
+	h1 {
+		color: #fff;
+	}
+}
+
+// .hentry
+
+.hentry {
+	&:after {
+		background: $subtleColor;
+		content: "";
+		display: block;
+		height: 4px;
+		margin: 0 0 3em;
+		width: 45px;
+	}
+}
+
+.hentry-header {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.entry-title {
+	font-size: 30px;
+	font-size: 3rem;
+	margin-bottom: 0.25em;
+
+	a {
+		background-image: linear-gradient(to top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0) 2px, #ccc 2px, #ccc 3px, rgba(0, 0, 0, 0) 3px);
+		border: none;
+		text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+	}
+}
+
+.entry-summary {
+	color: $textColor;
+	font-size: 15px;
+	font-size: 1.5rem;
+	margin-bottom: 0.25em;
+}
+
+.published {
+	color: $metaColor;
+	font-size: 11px;
+	font-size: 1.1rem;
+	margin-bottom: 0.25em;
+}
+
+.tags {
+	li {
+		color: $silverRust;
+		display: inline;
+		font-size: 12px;
+		font-size: 1.2rem;
+
+		&:before {
+			content: "#";
+		}
+	}
+}
 
 
 
