@@ -38,12 +38,14 @@
 
         <nav class="page-nav">
             <ul>
-                <li><a href="#on-this-site">On this site</a></li>
+                <li><a class="is-active" href="#on-this-site">On this site</a></li>
                 <li><a href="#elsewhere">Elsewhere</a></li>
             </ul>
         </nav><!-- .page-nav -->
 
     </header><!-- .page-header -->
+
+    <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?zoneid=1696&amp;serve=CVYD42T&amp;placement=danielmallcom" id="_carbonads_js"></script>
 
     <section id="on-this-site" class="wrap95">
 

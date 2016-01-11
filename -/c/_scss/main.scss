@@ -24,40 +24,14 @@ http://superfriend.ly/
 
 .page-header {
 	background: $sandstone;
-	margin-bottom: 4em;
+	// margin-bottom: 4em;
 	padding-top: 3.5em;
 	padding-bottom: 2em;
 	position: relative;
 	text-align: center;
 
-	/*&:before {
-		background: $sandstone;
-		content: "";
-		display: block;
-		height: 15px;
-		left: 0;
-		position: absolute;
-		top: 15px;
-		width: 50px;
-	}*/
-
 	h1 {
 		color: #fff;
-		/*font-size: 50px;
-		font-size: 5rem;
-		margin: 0 2.5% 0;
-		padding: 0.9em 0 0.2em;
-
-		&:before {
-			background: $dark;
-			content: "";
-			display: block;
-			height: 15px;
-			left: 2.5%;
-			position: absolute;
-			top: 15px;
-			width: 70px;
-		}*/
 	}
 }
 
@@ -71,7 +45,7 @@ http://superfriend.ly/
 			font-size: 1.8rem;
 
 			&:after {
-				color: $subtleColor;
+				color: rgba(0, 0, 0, 0.2);
 				content: "/";
 				display: inline-block;
 				margin: 0 0.5em;
@@ -83,7 +57,11 @@ http://superfriend.ly/
 		}
 
 			a {
-				color: $dark;
+				color: rgba(0, 0, 0, 0.5);
+
+				&.is-active {
+					color: rgba(255, 255, 255, 0.8);
+				}
 
 				&:hover {
 					color: $highlightColor;
@@ -159,6 +137,39 @@ http://superfriend.ly/
 	}
 }
 
+#carbonads,
+.carbon-wrap,
+.carbon-text,
+.carbon-poweredby {
+	display: block;
+	//text-align: center;
+}
+
+#carbonads {
+	background: #f8f7f7;
+	margin: 0 0 4em;
+	@extend .pad95;
+	@extend .clearfix;
+	padding-top: 2em;
+	padding-bottom: 1em;
+}
+
+.carbon-text {
+	color: $dark;
+	font-size: 12px;
+	font-size: 1.2rem;
+	margin: 0 0 1em;
+}
+
+.carbon-img img {
+	display: block;
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+.carbon-poweredby { 
+	color: $sandstone;
+}
 
 
 
