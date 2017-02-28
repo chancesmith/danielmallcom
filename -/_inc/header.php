@@ -1,3 +1,33 @@
+<style type="text/css">
+    body {
+        padding-top: 0;
+    }
+    .updated-message {
+        background: #231F20; 
+        color: white; 
+        text-align: center;
+        font-size: 20px;
+        padding: 1em 1em 1.5em;
+    }
+    .updated-message a:hover,
+    .updated-message a:focus {
+        color: #fff;
+    }
+    .hamburger {
+        top: 13.2em;
+    }
+
+    @media screen and (min-width: 690px){
+        .hamburger {
+            top: 10.2em;
+        }
+    }
+</style>
+
+<div class="updated-message">
+    You&rsquo;re on an old version of this site. Please visit <a href="http://danmall.me/">danmall.me</a> for the latest.
+</div>
+
 <div id="masthead-wrap" class="masthead-wrap-active">
         
     <section id="masthead" role="banner" class="clearfix">
